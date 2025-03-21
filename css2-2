@@ -1,0 +1,101 @@
+﻿@font-face {
+  font-family: 'Alumni Sans Inline One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/alumnisansinlineone/v5/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Beau Rivage';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/beaurivage/v2/UcCi3FIgIG2bH4mMNWJUlmg3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Big Shoulders Stencil Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/bigshouldersstencildisplay/v29/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0jPKA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bungee Spice';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/bungeespice/v14/nwpTtK2nIhxE0q-IwgSpZBqCzw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chau Philomene One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/chauphilomeneone/v15/55xxezRsPtfie1vPY49qzdgSlJiHRQFsnA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Goldman';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/goldman/v19/pe0uMIWbN4JFplR2LDI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Hurricane';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/hurricane/v7/pe0sMIuULZxTolZ5YldyAg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Moon Dance';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/moondance/v6/WBLgrEbUbFlYW9ekmGawe2U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'MuseoModerno';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/museomoderno/v27/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMlZEuew.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Prosto One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/prostoone/v19/OpNJno4VhNfK-RgpwWWxpio.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Racing Sans One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/racingsansone/v15/sykr-yRtm7EvTrXNxkv5jfKKyDCwLw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Romanesco';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/romanesco/v21/w8gYH2ozQOY7_r_J7mSn3A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Train One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/trainone/v14/gyB-hwkiNtc6KnxUVjWHOg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Yusei Magic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/yuseimagic/v14/yYLt0hbAyuCmoo5wlhPkpjHR.ttf) format('truetype');
+}
+body {
+  --google-font-color-bungeespice:none;
+}

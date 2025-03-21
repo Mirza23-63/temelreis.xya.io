@@ -1,0 +1,14 @@
+﻿@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/khand/v21/TwMA-IINQlQQ0YpV.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Khand';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/khand/v21/TwMN-IINQlQQ0bKhcVE3.ttf) format('truetype');
+}
